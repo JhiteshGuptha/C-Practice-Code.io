@@ -1,0 +1,48 @@
+1. Basic Arithmetic Expression
+
+Calculate and print the result of (15 % 4) * 3 + 12 / 2 using appropriate operators.
+
+2. Compound Assignment
+
+Declare int x = 5. Update x using +=, *=, and -= operators in sequence (e.g., x += 3; x *= 2; x -= 4;).
+Print the final value.
+
+3. Logical AND/OR
+
+Given a = 7, b = 3, and c = 5, evaluate and print the result of (a > b) && (c <= a) || (b != c).
+
+4. Operator Precedence
+
+Compute and print the value of 5 + 3 * 2 / 4 - 1 without using parentheses. 
+Explain how precedence rules apply.
+
+5. Comparison Chain
+
+Check if 10 < 15 and 15 <= 15 are both true using logical operators. 
+Print the result.
+
+6. Modulo and Division
+
+Calculate the remainder when 27 is divided by 4, then divide the result by 2. 
+Print the final value.
+
+7. Boolean Negation
+
+Declare int flag = 0. Use the logical NOT operator to print the inverse of flag.
+
+8. Mixed-Type Assignment
+
+Declare float y = 4.5. Update y using y *= 2 and y -= 3, then print the result.
+
+9. Complex Expression
+
+Evaluate (2 + 3) * 4 == 20 || 10 / 3 != 3 and print the boolean result.
+
+10. Precedence Challenge
+
+Compute ! (5 > 3 && 2 < 4) || (6 % 4 == 2) and explain the order of operations used.
+
+
+
+
+
