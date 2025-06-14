@@ -1,0 +1,72 @@
+1. Pattern Printing
+
+Use printf to display the following pattern:
+
+*
+**
+***
+****
+
+2. Quoted Message
+
+Print the message: She said, "C programming is fun!"
+Ensure the quotes appear in the output.
+
+3. File Path
+
+Display a Windows file path: C:\Program Files\MyProject\code.c
+Use appropriate escape sequences for the backslashes.
+
+4. Formatted Address
+
+Print an address in this format:
+
+Name: John Doe
+Street: 123 Main Street
+City: New York
+
+Use tab after "123".
+
+5. BackSlash Practice
+
+Print the following output: To print a backslash, use \\ in printf.
+
+6. Multi-Line Poem
+
+Write a printf statement to display this poem snippet:
+
+Roses are red,
+Violets are blue,
+C is awesome,
+And so are you!
+
+7. Mixed Escape Characters
+
+Create this output using a single printf:
+
+Hello!  
+How are you?\n  
+I'm using \t tabs and \\ backslashes.
+
+8. Alert Sound
+
+Print a message that includes the \a escape sequence to trigger a system alert beep:
+Warning: Low memory!\a
+
+9. Complex Pattern
+
+Print the following diamond shape using printf and escape sequences:
+
+ *
+***
+ *
+
+10. Combined Formatting
+
+Display the following output with quotes, tabs, and line breaks:
+
+ ```
+ Column1\tColumn2\tColumn3
+ "Data1"\t"Data2"\t"Data3"
+ ```  
+ Ensure the `\t` and `\"` are properly escaped.
