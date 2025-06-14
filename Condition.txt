@@ -1,0 +1,55 @@
+1. Basic if-else
+
+Write a program to check if a number is even or odd using if-else.
+
+2. else if Ladder
+
+Read a temperature value and print:
+
+"Freezing" if ≤ 0°C
+
+"Cold" if 1–15°C
+
+"Warm" if 16–30°C
+
+"Hot" if > 30°C
+
+3. Nested if-else
+
+Check if a number is positive, negative, or zero using nested if-else.
+
+4. Ternary Operator (Shorthand if)
+
+Use the ternary operator to find the maximum of two numbers.
+
+5. Ternary for Even/Odd
+
+Rewrite the even/odd check from Question 1 using the ternary operator.
+
+6. switch for Arithmetic Operations
+
+Use switch to perform addition, subtraction, multiplication, or division based on a character input (+, -, *, /).
+
+7. switch with Characters
+
+Read a vowel (a, e, i, o, u) and print its uppercase version using switch. Handle invalid inputs with a default case.
+
+8. Combined if-else and switch
+
+Check if a year is a leap year using if-else, then use switch to print "Leap" or "Not Leap".
+
+9. Ternary for Sign Check
+
+Use the ternary operator to print "Positive" or "Non-positive" for a given number.
+
+10. Complex switch with Ranges
+
+Use switch to categorize a score (0–100):
+
+90–100: Grade A
+
+80–89: Grade B
+
+70–79: Grade C
+
+Fail otherwise
