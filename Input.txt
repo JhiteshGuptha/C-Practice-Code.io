@@ -1,0 +1,44 @@
+1. Single Integer Input
+
+Write a program to read an integer using scanf() and print it.
+
+2. Multiple Inputs in One Line
+
+Read three integers in a single scanf() statement (e.g., input: 10 20 30) and print them.
+
+3. Mixed Data Types
+
+Use scanf() to read an integer, a float, and a character in one line (e.g., 25 3.14 A) and display them.
+
+4. Reading a String
+
+Declare a character array of size 50.
+Use scanf() to read a single-word string (no spaces) and print it.
+
+5. Handling Characters with getchar()
+
+Read three characters sequentially using getchar() and print them in reverse order.
+
+6. Combining scanf() and getchar()
+
+Read an integer using scanf(), then use getchar() to read a character immediately afterward. 
+Print both values.
+
+7. Formatted Date Input
+
+Read a date in the format DD/MM/YYYY using scanf().
+Print it as Day: DD, Month: MM, Year: YYYY.
+
+8. Clearing the Input Buffer
+
+After using scanf() to read an integer
+Use getchar() to clear any leftover characters (like \n) before reading a character with getchar().
+
+9. Reading a Sentence
+
+Use scanf() to read a sentence with spaces (e.g., Hello World) using the format specifier %[^\n] and print it.
+
+10. Multiple Inputs with Fixed Format
+
+Read input in the format Name:ABC Age:20 using scanf() (assume "ABC" is a 3-letter name and "20" is an integer).
+Print the values.
