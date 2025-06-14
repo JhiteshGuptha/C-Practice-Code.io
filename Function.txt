@@ -1,0 +1,64 @@
+1. Basic Function Structure
+
+Write a program with:
+
+1.a. A function prototype void greet() before main().
+
+1.b. Function definition of greet() to print "Hello, World!".
+
+1.c. Call greet() from main().
+
+2. Return Type and Parameters
+
+Create a function int add(int a, int b) that returns the sum of a and b. 
+Call it from main() and print the result.
+
+3. Function with Float Return
+
+Define a function float multiply(float x, float y) that returns the product of x and y. 
+Call it with arguments 3.5 and 2.0, and print the result.
+
+4. Global vs Local Scope
+
+Declare a global variable int count = 5. 
+Write a function void updateCount() that increments count by 1. Call the function from main(). 
+Print the updated count.
+
+5. Void Function with Parameter
+
+Write a function void printNumber(int num) that prints the value of num. 
+Call it from main() with an input value.
+
+6. Function Prototype Placement
+
+Write main() first, followed by a function int square(int n) that returns n * n. 
+Ensure the prototype is correctly placed.
+
+7. Multiple User-Defined Functions
+
+Create two functions:
+
+int isEven(int num) returns 1 if num is even, else 0.
+
+void checkEven(int num) calls isEven() and prints "Even" or "Odd".
+Call checkEven() from main().
+
+8. Return 0 or 1 for Status
+
+Write a function int isPositive(int num) that returns 1 if num > 0, else 0. 
+Use this in main() to print "Positive" or "Non-positive".
+
+9. Character Return Type
+
+Create a function char getGrade(int score) that returns:
+
+'A' if score >= 90,
+
+'B' if score >= 80,
+
+'F' otherwise.
+Call it from main() and print the result.
+
+10. Modify Global Variable in Function
+
+Declare a global variable int value = 10. Write a function void changeValue() that sets value = 20. Print value before and after calling the function.
