@@ -1,0 +1,45 @@
+1. Sum of Numbers
+
+Use a for loop to calculate the sum of all numbers from 1 to N (user input).
+
+2. Factorial with while
+
+Compute the factorial of a number using a while loop.
+
+3. Reverse Digits with do-while
+
+Reverse the digits of a number (e.g., 123 → 321) using a do-while loop.
+
+4. Skip Even Numbers
+
+Print numbers from 1 to 20 using a for loop but skip even numbers using continue.
+
+5. Nested for Loop Pattern
+
+Print a pyramid pattern using nested for loops:
+
+  *  
+ ***  
+*****  
+
+6. Break on Negative Input 
+
+Use a while loop to read integers until a negative number is entered. 
+Exit the loop with break.  
+
+7. Multiplication Table  
+
+Print a 5x5 multiplication table using nested for loops.  
+
+8. Prime Check with for Loop 
+
+Check if a number is prime using a for loop (without using functions/arrays).  
+
+9. Sum of Digits with do-while  
+
+Calculate the sum of digits of a number (e.g., 123 → 6) using a do-while loop.  
+
+10. Continue in Nested Loop
+
+Print numbers 1–10 using nested loops (outer loop for rows, inner loop for columns) 
+but skip printing 5 using continue.  
