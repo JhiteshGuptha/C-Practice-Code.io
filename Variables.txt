@@ -1,0 +1,55 @@
+1. Basic Variable Output
+
+Declare variables of types int, float, char, and double. 
+Assign values and print them with appropriate format specifiers.
+
+2. ASCII Character Conversion
+
+Print the ASCII value of the character 'A' using %d. 
+Then, print the character corresponding to ASCII value 97 using %c.
+
+3. Decimal Precision Formatting
+
+Declare a variable pi = 3.1415926535. 
+Print it with exactly 3 decimal places using printf.
+
+4. Implicit Type Conversion
+
+Declare an integer a = 5 and a float b = 2.5. 
+Compute a / b and print the result. 
+Explain the data type of the output.
+
+5. Explicit Type Casting
+
+Declare a float num = 7.8. 
+Explicitly cast it to an integer and print both the original and casted values.
+
+6. Constants and Calculations
+
+Define a constant GRAVITY = 9.8 using #define. 
+Compute the force mass * GRAVITY for a mass = 10 and print the result.
+
+7. Mixed Data Type Operations
+
+Declare a char c = 'B' (ASCII 66) and an integer x = 10. 
+Print the result of c * x as an integer.
+
+8. Format Specifiers for Hex/Octal
+
+Declare an integer value = 255. 
+Print it in hexadecimal and octal formats using %x and %o.
+
+9. Implicit vs Explicit Casting
+
+Compute 9 / 2 and (float)9 / 2. 
+Print both results and explain the difference.
+
+10. Combined Type Conversion
+
+Declare variables:
+
+int p = 10;  
+float r = 3.5;  
+char letter = 'C';  
+
+Compute and print (a + (int)b) * c (use ASCII value of 'C').
